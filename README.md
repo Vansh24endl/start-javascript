@@ -1,2 +1,2 @@
 # start-javascript
-# lets start a new journay with javascript width="45"
+# lets start a new journay with javascript
